@@ -5,6 +5,7 @@
 This repository contains a JavaScript snippet that, when executed in a web browser's console, attempts to retrieve a Discord user token for experimenting and doing other stuff.
 Or just for fun!
 
+Dont mind the window that opens its just for it to work!
 
 ## The Code
 
