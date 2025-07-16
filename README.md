@@ -7,6 +7,11 @@ Or just for fun!
 
 Dont mind the window that opens its just for it to work!
 
+## How To
+
+Press Ctrl+Shift+i to open the devtools. When thats up press console to open the console where you paste the Javascript.
+After pasting the code check under it for your token!
+
 ## The Code
 
 ```javascript
